@@ -14,6 +14,6 @@ echo " home Directory : $HOME "
 
 echo " PID of the Script : $$ "
 
-echo " PID of the last command in  the background : $! "
-
 sleep 10 & 
+
+echo " PID of the last command in  the background : $! "
